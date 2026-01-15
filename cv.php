@@ -13,7 +13,7 @@
 <div class="container my-5">
     <h1 class="text-center mb-4">Générateur de CV</h1>
 
-    <form id="cvForm" method="post" action="generate_pdf.php">
+    <form id="cvForm" method="post" action="export.php">
 
         <div class="card mb-4">
             <div class="card-header fw-bold">Informations générales</div>
